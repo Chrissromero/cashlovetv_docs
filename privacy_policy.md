@@ -1,6 +1,6 @@
 # Política de Privacidad de CashLoveTv
 
-Fecha de última actualización: [Insertar fecha]
+Fecha de última actualización: 20 de Noviembre de 2024
 
 ## 1. Introducción
 
@@ -44,7 +44,6 @@ Usted tiene derecho a:
 - Acceder a su información personal
 - Corregir datos inexactos
 - Solicitar la eliminación de sus datos
-- Oponerse o limitar el procesamiento de sus datos
 
 Para ejercer estos derechos, contáctenos a través de info@cashlove.net.
 
