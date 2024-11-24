@@ -2,6 +2,6 @@
 
 Para eliminar tu cuenta de CashLoveTv, por favor contacta al siguiente correo electrónico:
 
-**info@cashlove.net**
+**cashlovenet@gmail.com**
 
 Un representante de atención al cliente te asistirá con el proceso de eliminación de cuenta.
